@@ -2,7 +2,7 @@
 Live ski resort conditions for 12 major US resorts — 
 because powder waits for no one.
 
-🔗 [snowtrack-co.vercel.app](https://snowtrack.vercel.app)
+🔗 [snowtrack-co.vercel.app](https://snowtrack-co.vercel.app)
 
 ---
 
