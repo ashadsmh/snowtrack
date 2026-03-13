@@ -4,8 +4,7 @@ because powder waits for no one.
 
 🔗 [snowtrack-co.vercel.app](https://snowtrack-co.vercel.app)
 
-![SnowTrack Preview](snowtrack-preview.png)
-
+![SnowTrack Preview](https://github.com/user-attachments/assets/07610dc6-269c-4d7b-a47c-31c234ec4c9f)
 ---
 
 ## What It Does
